@@ -8,6 +8,10 @@ Correr entrorno virtual
 
 2 - source .venv/bin/activate
 
+Para instalar las dependencias necesarias
+
+1 - pip install -r requirements.txt
+
 Para desactivar el entorno virtual
 
 1 - deactivate
